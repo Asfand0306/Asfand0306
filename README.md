@@ -23,8 +23,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsfandKhan-dev&show_icons=true&theme=radical" alt="AsfandKhan-dev" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AsfandKhan-dev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Asfand0306-dev&show_icons=true&theme=radical" alt="Asfand0306-dev" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asfand0306-dev&theme=radical" />
 </p>
 
 ---
@@ -38,5 +38,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AsfandKhan-dev&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Asfand0306-dev&style=flat-square&color=blue" alt="profile views"/>
 </p>
