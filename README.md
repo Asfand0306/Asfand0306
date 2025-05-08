@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Developer | 🎨 Designer | 💡 Lifelong Learner</h3>
+<h1 align="center">Hi 👋, I'm Asfand </h1>
+<h3 align="center">🚀 Developer | 🎨 Designer | 💡 Creatively Driven </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;Open-source+enthusiast;Always+learning+new+things!&center=true&width=500&height=45">
@@ -15,9 +15,6 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-
-> 🧠 *Currently learning*: TypeScript, Docker, and Firebase
 
 ---
 
@@ -32,15 +29,9 @@
 
 ### 🌍 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 📫 [Email](mailto:your@email.com)
-- 🧪 [Portfolio](https://yourportfolio.com)
-
----
-
-### ☕ Fun Fact
-
-> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+- 💼 [LinkedIn](https://www.linkedin.com/in/asfand-khan-7a8a971aa/)
+- 📫 [Email](mailto:Asfand0306@gmail.com)
+- 🧪 [Portfolio]( Will add later )
 
 ---
 
