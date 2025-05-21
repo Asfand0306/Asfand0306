@@ -1,8 +1,6 @@
 <!-- Profile README -->
-Hi 👋, I'm Asfand
-<p>
-  <img src="https://capsule-render.vercel.app/api?type=gradient&text=%20asdf%20&height=300&fontSize=100&textBg=true">
-</p>
+
+<h1 align="center">Hi 👋, I'm Asfand</h1>
 <h3 align="center">🚀 Developer | 🎨 Designer | 💡 Creatively Driven</h3>
 
 <p align="center">
