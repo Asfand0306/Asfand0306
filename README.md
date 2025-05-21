@@ -1,6 +1,8 @@
 <!-- Profile README -->
-
-<h1 align="center">Hi 👋, I'm Asfand</h1>
+Hi 👋, I'm Asfand
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=blur"
+</p>
 <h3 align="center">🚀 Developer | 🎨 Designer | 💡 Creatively Driven</h3>
 
 <p align="center">
