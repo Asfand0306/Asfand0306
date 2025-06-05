@@ -23,7 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
 </p>
 
-## 🛠️ Frameworks & Libraries
+## Frameworks & Libraries
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
@@ -33,7 +33,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
 </p>
 
-## ⚙️ Tools & Platforms
+## Tools & Platforms
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </p>
 
-## ☁️ Cloud & Deployment
+## Cloud & Deployment
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
@@ -58,7 +58,7 @@
   </p>
 </div>
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Asfand0306&show_icons=true&theme=radical&hide_border=true" width="49%" alt="Asfand0306's GitHub stats"/>
@@ -75,7 +75,7 @@
   
 </div>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
