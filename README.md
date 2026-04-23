@@ -105,8 +105,8 @@
   <a href="mailto:Asfand0306@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9d"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9d"/>
+  <a href="https://myportfolio-zeta-seven-97.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Live-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9d"/>
   </a>
 </p>
 
