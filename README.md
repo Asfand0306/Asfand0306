@@ -1,81 +1,219 @@
-<h1 align="center">Hi 👋, I'm Asfand</h1>
-<h3 align="center">🚀 Developer | 🎨 Designer | 💡 Creatively Driven</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+developer;Open-source+enthusiast;Always+learning+new+things!&center=true&width=500&height=45" alt="Typing SVG">
-</p>
+<!-- ============================================================ -->
+<!--                  CODEC SYSTEM ACTIVE                        -->
+<!-- ============================================================ -->
 
 <div align="center">
-  <p>
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </p>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════════╗
+║  ◈  CODEC SYSTEM — ACTIVE                              ▁▂▃▄▅  ◉  SYS:ON-LINE  ║
+╚══════════════════════════════════════════════════════════════════════════════════╝
+```
+
 </div>
-
-## 💻 Languages
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
-</p>
-
-## Frameworks & Libraries
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/>
-</p>
-
-## Tools & Platforms
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="eclipse" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-</p>
-
-## Cloud & Deployment
-
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain-wordmark.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="supabase" width="40" height="40"/>
-</p>
 
 <div align="center">
-  <p>
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </p>
+
+```
+                    ╔═══════════════════════════════════════╗
+           ◄ ░▒▓█   ║  ▌▌▌▌▌  [ 40 · 85 ]  ▌▌▌▌▌  █▓▒░ ►
+                    ║              PTT    REN               ║
+                    ╚═══════════════════════════════════════╝
+```
+
 </div>
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asfand0306&show_icons=true&theme=radical&hide_border=true" width="49%" alt="Asfand0306's GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asfand0306&theme=radical&hide_border=true" width="49%" alt="Asfand0306's GitHub streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfand0306&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
-</p>
 
 <div align="center">
-  
-  ![Animated Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-  
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ ▸ FREQ DIRECTORY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 </div>
 
-## Contribution Snake
+<div align="center">
+
+[![140.85 · About](https://img.shields.io/badge/140.85_•_About-00ff9d?style=flat-square&labelColor=0d1117&color=00ff9d&logoColor=00ff9d)](#-subject--asfandyar-khan)
+[![141.12 · Skills](https://img.shields.io/badge/141.12_•_Skills-00ff9d?style=flat-square&labelColor=0d1117&color=00ff9d)](#-skills-loadout)
+[![142.34 · Projects](https://img.shields.io/badge/142.34_•_Projects-00ff9d?style=flat-square&labelColor=0d1117&color=00ff9d)](#-mission-log--projects)
+[![143.70 · Stats](https://img.shields.io/badge/143.70_•_Stats-00ff9d?style=flat-square&labelColor=0d1117&color=00ff9d)](#-intel-report--github-stats)
+[![146.00 · Contact](https://img.shields.io/badge/146.00_•_Contact-00ff9d?style=flat-square&labelColor=0d1117&color=00ff9d)](#-open-channel--contact)
+
+</div>
+
+<br>
+
+---
+
+## `// SUBJECT — ASFANDYAR KHAN`
+
+<table>
+<tr>
+<td width="220" valign="top">
+
+```
+┌─────────────────────┐
+│                     │
+│                     │
+│                     │
+│    [ NO SIGNAL ]    │
+│                     │
+│   place photo at    │
+│    public/me.jpg    │
+│                     │
+│                     │
+└─────────────────────┘
+  SUBJECT — A. KHAN
+```
+
+</td>
+<td valign="top">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  ROLE       │  Junior Software Developer                        │
+│  LOCATION   │  Alberta, Canada                                  │
+│  TRAINING   │  SAIT — Software Development Diploma              │
+│  STATUS     │  ● AVAILABLE FOR HIRE                             │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+Highly motivated software developer with hands-on experience building
+full-stack web applications using **React**, **Next.js**, and **Firebase**.
+Strong foundation in front-end development, UI/UX design, and API integration.
+
+Passionate about developing scalable, user-centred applications and
+contributing to collaborative teams. During my SAIT Capstone I led
+front-end development of a real-world mental health platform — delivering
+against genuine client requirements, with Firebase and Azure AI integrations.
+
+Ready to contribute from day one. Fast learner, team-oriented, and
+genuinely invested in building great software.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+---
+
+## `// SKILLS LOADOUT`
+
+<details>
+<summary><code>▸ 141.12 — LANGUAGES</code></summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/HTML5-0d1117?style=for-the-badge&logo=html5&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/CSS3-0d1117?style=for-the-badge&logo=css3&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=mysql&logoColor=00ff9d"/>
+</p>
+
+</details>
+
+<details>
+<summary><code>▸ 141.48 — FRAMEWORKS & LIBRARIES</code></summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/npm-0d1117?style=for-the-badge&logo=npm&logoColor=00ff9d"/>
+</p>
+
+</details>
+
+<details>
+<summary><code>▸ 141.75 — TOOLS & PLATFORMS</code></summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/Eclipse-0d1117?style=for-the-badge&logo=eclipseide&logoColor=00ff9d"/>
+</p>
+
+</details>
+
+<details>
+<summary><code>▸ 141.99 — CLOUD & DEPLOYMENT</code></summary>
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9d"/>
+  <img src="https://img.shields.io/badge/Supabase-0d1117?style=for-the-badge&logo=supabase&logoColor=00ff9d"/>
+</p>
+
+</details>
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+---
+
+## `// MISSION LOG — PROJECTS`
+
+> _Classified operations available upon request. Field reports incoming._
+
+```
+┌──────────────────────────────────────────────────────────────────────┐
+│  OP-001  │  Mental Health Platform (Capstone)                        │
+│  STACK   │  React · Firebase · Azure AI · Next.js                    │
+│  STATUS  │  ██████████ COMPLETE                                      │
+│  ROLE    │  Lead Front-End Developer                                 │
+├──────────────────────────────────────────────────────────────────────┤
+│  OP-002  │  [ REDACTED — Portfolio Coming Soon ]                     │
+│  STACK   │  ██████ · ████████ · ████                                 │
+│  STATUS  │  ░░░░░░░░░░ IN PROGRESS                                   │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<div align="center">
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+---
+
+## `// INTEL REPORT — GITHUB STATS`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asfand0306&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&icon_color=00ff9d&text_color=00cc7a&ring_color=00ff9d" width="49%" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asfand0306&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff9d&fire=00cc7a&currStreakLabel=00ff9d&sideLabels=00cc7a&sideNums=00ff9d&dates=555" width="49%" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asfand0306&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff9d&text_color=00cc7a" alt="Top Languages"/>
+</p>
+
+### `▸ CONTRIBUTION GRID`
 
 <p align="center">
   <picture>
@@ -86,39 +224,44 @@
 </p>
 
 <div align="center">
-  <p>
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </p>
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
 </div>
 
-## 🌍 Let's Connect!
+---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/asfand-khan-7a8a971aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:Asfand0306@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Coming_Soon-9cf?style=for-the-badge" alt="Portfolio"/>
-  </a>
-</p>
+## `// OPEN CHANNEL — CONTACT`
 
 <div align="center">
-  <p>
-    ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  </p>
+
+```
+┌─────────────────────────────────────────────────────┐
+│  TRANSMISSION READY — ESTABLISH CONNECTION BELOW    │
+└─────────────────────────────────────────────────────┘
+```
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9d)](https://www.linkedin.com/in/asfand-khan-7a8a971aa/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9d)](mailto:Asfand0306@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-0d1117?style=for-the-badge&logo=vercel&logoColor=00ff9d)](#)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Asfand0306&style=flat-square&color=00ff9d&labelColor=0d1117&label=CODEC+ACCESSES)
+
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asfand0306&style=flat-square&color=blueviolet" alt="Profile Views"/>
-</p>
+<div align="center">
 
-<!-- GitHub Activity Graph -->
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Asfand0306&bg_color=1a1b27&color=628fdb&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="Asfand0306's Github Activity Graph">
-</p>
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  ▸ This is Asfandyar Khan — junior software developer, Alberta CA.
+    Full-stack experience, strong front-end skills. Patching you through now.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
-<!-- Footer -->
-<p align="center">⭐️ From <a href="https://github.com/Asfand0306">Asfand0306</a></p>
+_⭐️ From [Asfand0306](https://github.com/Asfand0306) — CODEC SYSTEM v2.0_
+
+</div>
